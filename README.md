@@ -15,7 +15,7 @@ This project implements a basic ATM System using Python programming language and
 
 ## Usage
 
-- Upon running `atm_system.py`, the application window will display a login screen.
+- Upon running, the application window will display a login screen.
 - Use the default credentials (`User ID: 1234`, `PIN: 1234`) to log in.
 - Once logged in, you can perform transactions like checking balance, viewing transaction history, withdrawing, depositing, transferring funds, and quitting the application.
 
